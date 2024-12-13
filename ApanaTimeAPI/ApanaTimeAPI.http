@@ -1,0 +1,6 @@
+@ApanaTimeAPI_HostAddress = http://localhost:5207
+
+GET {{ApanaTimeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
